@@ -2,5 +2,5 @@
 
 # Sample Website
 
-Sample website made as part of Learn Enough Git to be Dangerous
-Pretty good
+Sample website made as part of Learn Enough Git to be Dangerous.
+ Pretty good
